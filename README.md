@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![HitCount](http://hits.dwyl.com/Shehan82/Shehan82.svg)](http://hits.dwyl.com/Shehan82/Shehan82)
 
-![tenor](https://user-images.githubusercontent.com/55059232/97602798-bfe35b00-1a31-11eb-85df-f6fa8f141105.gif)  
+![004b173f6e3d6843df10114e087f30a8](https://user-images.githubusercontent.com/55059232/97798712-889dc580-1c4e-11eb-93c3-42a57d717799.gif) 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shehan82)](https://github.com/anuraghazra/github-readme-stats)
 
