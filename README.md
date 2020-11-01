@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![HitCount](http://hits.dwyl.com/Shehan82/Shehan82.svg)](http://hits.dwyl.com/Shehan82/Shehan82)
 
-![tenor](https://user-images.githubusercontent.com/55059232/97602798-bfe35b00-1a31-11eb-85df-f6fa8f141105.gif)
+![tenor](https://user-images.githubusercontent.com/55059232/97602798-bfe35b00-1a31-11eb-85df-f6fa8f141105.gif)  [![shehan's github stats](https://github-readme-stats.vercel.app/api?username=shehan82)](https://github.com/shehan82/github-readme-stats)
 
-[![shehan's github stats](https://github-readme-stats.vercel.app/api?username=shehan82)](https://github.com/shehan82/github-readme-stats)
+
 
 
