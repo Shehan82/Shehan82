@@ -1,4 +1,4 @@
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shehan82)
 
 ![shehan's github stats](https://github-readme-stats.vercel.app/api?username=shehan82&show_icons=true&theme=dracula)
 
